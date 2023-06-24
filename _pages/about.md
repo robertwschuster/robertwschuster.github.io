@@ -13,11 +13,13 @@ New approaches to solving long-standing porblems and addressing enduring questio
 
 Education
 ------
-Despite spending my school years outside my country of origin, Germany, I returned home to complete a Bachelor and Master of Science at the Technical University of Munich. The itchy feet I got from spending such an extended period in my hometown, led me to undertake a PhD in biomechanics at the University of Queensland under the guidance of [A/Prof Luke Kelly](https://scholar.google.com.au/citations?user=4oen8loAAAAJ&hl=en&oi=sra) and [Prof Andy Crewsswell](https://scholar.google.com.au/citations?user=MGG3Bs8AAAAJ&hl=en&oi=ao).
+Despite spending my school years outside my country of origin, Germany, I returned home to complete a Bachelor and Master of Science at the Technical University of Munich. 
+The itchy feet I got from spending such an extended period in my hometown, led me to undertake a PhD in biomechanics at the University of Queensland under the guidance of [A/Prof Luke Kelly](https://scholar.google.com.au/citations?user=4oen8loAAAAJ&hl=en&oi=sra) and [Prof Andy Crewsswell](https://scholar.google.com.au/citations?user=MGG3Bs8AAAAJ&hl=en&oi=ao).
 
 Professional experience
 ------
-I have experience working in a variety of settings, from innovative sports tech companies to world-renowned universities and sports organisations. In each of my roles, I have had the opportunity to work with and learn from brilliant minds. I have also been able to apply my theoretical knowledge of human biomechanics, while developing new skills.
+I have experience working in a variety of settings, from innovative sports tech companies to world-renowned universities and sports organisations. 
+In each of my roles, I have had the opportunity to work with and learn from brilliant minds. I have also been able to apply my theoretical knowledge of human biomechanics, while developing new skills.
 
 
 For a more detailed description on my education and professional experience, please take a look at my [CV](/files/CV_202306.pdf). An overview of my research to date can be found [here](/portfolio) and a list of my publications [here](/publications).
