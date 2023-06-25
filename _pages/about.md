@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my website, have a look around..."
+title: "Allow me to introduce myself"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-*Allow me to introduce myself*
-
-I recently completed a PhD in human biomechanics, having previously studied sport science. I am interested in all aspects of human movement, especially in the context of athletic performance.  
-New approaches to solving long-standing porblems and addressing enduring questions fascinate me. Accordingly, I enjoy exploring new technologies and computational methods, particularly in the areas of computer vision and machine learning.
+I recently completed a PhD in human biomechanics, having previously studied sport and exercise science. I am interested in all aspects of human movement, especially in the context of athletic performance.  
+New approaches to solving long-standing porblems and addressing persisting questions fascinate me. Accordingly, I aim to continue exploring the application of new technologies and computational methods, particularly in the areas of computer vision and machine learning.
 
 Education
 ------
