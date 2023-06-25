@@ -26,4 +26,4 @@ I have experience working in a variety of settings, from innovative sports tech 
 In each of my roles, I have had the opportunity to work with and learn from brilliant minds. I have also been able to apply my theoretical knowledge of human biomechanics, while developing new skills.
 
 
-For a more detailed description on my education and professional experience, please take a look at my [CV](/files/CV_202306.pdf). An overview of my research to date can be found [here]({/portfolio}) and a list of my publications [here]({/publications}).
+For a more detailed description on my education and professional experience, please take a look at my [CV](/files/CV_202306.pdf). An overview of my research to date can be found [here]({/portfolio}) and a list of my publications [here](/publications).
