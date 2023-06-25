@@ -12,4 +12,4 @@ This paper is about the number 2. The number 3 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Schuster, R. W., Cresswell, A. G., Kelly, L. A. (2021). "Reliability and quality of statistical shape and deformation models constructed from optical foot scans." <i>Journal 1</i>. 115(110137).
+Recommended citation: Schuster, R. W., Cresswell, A. G., Kelly, L. A. (2021). "Reliability and quality of statistical shape and deformation models constructed from optical foot scans." <i>Journal of Biomechanics</i>. 115(110137).
