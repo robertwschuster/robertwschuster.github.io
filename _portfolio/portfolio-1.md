@@ -1,6 +1,6 @@
 ---
 title: "3D foot scanning and shape modelling - reliability and repeatability"
-excerpt: "This investigation explored the inter and intra-rater reliability of repeated foot scans and subsequently constructed statistical shape models<br/><img src='/images/foot_ssm_rel_cover.png' width="300">"
+excerpt: "This investigation explored the inter and intra-rater reliability of repeated foot scans and subsequently constructed statistical shape models<br/><img src='/images/foot_ssm_rel_cover.png' width='300'>"
 collection: portfolio
 ---
 
