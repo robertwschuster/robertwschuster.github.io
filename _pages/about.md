@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a biomechanist, with a background in sport science, interested in all aspects of human movement, especially in the context of athletic performance. 
+*Allow me to introduce myself*
+I recently completed a PhD in human biomechanics, having previously studied sport science. I am interested in all aspects of human movement, especially in the context of athletic performance. 
 New approaches to solving long-standing porblems and addressing enduring questions fascinate me. Accordingly, I enjoy exploring new technologies and computational methods, particularly in the areas of computer vision and machine learning.
 
 Education
