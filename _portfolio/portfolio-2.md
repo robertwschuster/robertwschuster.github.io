@@ -1,6 +1,6 @@
 ---
 title: "Plantar soft tissue stiffness and foot shape"
-excerpt: "A custom-built device was used to investigate whether *in vivo* plantar soft tissue stiffness is related to foot shape <br/><img src='/images/pst_stiffness_cover.png'>"
+excerpt: "Is *in vivo* plantar soft tissue stiffness, measured with a custom-built device, related to foot shape? <br/><img src='/images/pst_stiffness_cover.png'>"
 collection: portfolio
 ---
 
