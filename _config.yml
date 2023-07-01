@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Robert W Schuster"
+title                    : "Hello, my name is Robert"
 title_separator          : "-"
 name                     : &name "Robert Schuster"
 description              : &description "personal description"
