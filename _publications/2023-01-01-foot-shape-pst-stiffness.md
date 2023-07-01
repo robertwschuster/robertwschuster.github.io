@@ -1,7 +1,7 @@
 ---
 title: "Foot shape is related to load-induced shape deformations, but neither are good predictors of plantar soft tissue stiffness"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2023-01-01-foot-shape-pst-stiffness
 excerpt: 'This paper investigated whether foot shape characteristics are related to foot deformations and whether either of the two, or their combination, could predict plantar soft tissue stiffness.'
 date: 2023-01-01
 venue: 'Journal of The Royal Society Interface'
