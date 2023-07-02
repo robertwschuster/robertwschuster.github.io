@@ -1,6 +1,6 @@
 ---
 title: "Prediciting ground reaction forces from markerless 3D motion tracking"
-excerpt: "Can a physics-based approach accurately predict ground reaction forces from markerless 3D motion tracking during diverse activities? <br/><img src='/images/markerless_force_prediction_cover.png'>"
+excerpt: "Can a physics-based approach accurately predict ground reaction forces from markerless 3D motion tracking during diverse activities? <br/><img src='/images/mmc_grf_prediction_cover.png'>"
 collection: portfolio
 ---
 This research investigates the accuracy of a physics-based approach when predicting ground reaction forces (GRF) and centre of pressure (COP) during a diverse range of activities using only markerless 3D motion tracking.  
