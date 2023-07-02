@@ -12,4 +12,4 @@ citation:
 Hemler, S., **Schuster, R. W.**, Pataky, Z., & Kelly, L. A. (2023). Foot shape modelling of older adults with and without diabetes mellitus. *Footwear Science*. 15, Sup1.  
   
   
-Full text available [here](https://doi.org/10.1080/19424280.2023.2199292)
+Access paper [here](https://doi.org/10.1080/19424280.2023.2199292)
