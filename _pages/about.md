@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I recently completed a PhD in biomechanics, having previously studied sport and exercise science. I am interested in all aspects of human movement, especially in the context of athletic performance.  
-New approaches to solving long-standing problems and addressing persisting questions fascinate me. Accordingly, I aim to continue exploring the application of new technologies and computational methods in the field of human movement biomechanics, particularly from the areas of computer vision and machine learning.
+I recently completed a PhD in biomechanics, having previously studied sport and exercise science. I am curious about all aspects of human movement, but especially in the context of athletic performance.  
+New approaches to solving long-standing problems and addressing persisting questions fascinate me. I am particularly interested in exploring how new technologies and computational methods, specifically from the areas of computer vision and machine learning, can be applied in the field of human movement biomechanics.  
 
 Education
 ------
