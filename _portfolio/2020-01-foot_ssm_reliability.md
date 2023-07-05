@@ -4,4 +4,8 @@ excerpt: "Are repeated 3D foot scanning and subsequent construction of statistic
 collection: portfolio
 ---
 
-TODO: text + figures
+![Foot shape scanning and modelling methods](/images/foot_ssm_rel_methods.png){: .align-left}  
+` `  
+![Foot shape scanning and modelling reliability results](/images/foot_ssm_rel_results.png){: .align-left}  
+` `  
+![Foot shape deformation methods](/images/foot_ssm_rel_methods.gif){: .align-left}  
