@@ -4,5 +4,5 @@ excerpt: "Is *in vivo* plantar soft tissue stiffness, measured with a custom-bui
 collection: portfolio
 ---
 
-[Methods for measuring plantar soft tissue stiffness](/images/pst_stiffness_methods.png)  
+![Methods for measuring plantar soft tissue stiffness](/images/pst_stiffness_methods.png)  
 TODO: test + figures
