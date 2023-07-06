@@ -11,7 +11,7 @@ This research was the first to investigate *in vivo* plantar soft tissue (PST) s
 A rotary encoder, attached to one end of the device’s crank shaft, was used to measure the degree of MTP joint extension. Meanwhile, two strain gauges, mounted diametrically onto the torsion cylinder in a full Wheatstone bridge configuration, were used to measure the MTP joint moment.  
 2. A string potentiometer threaded through a tube that was attached with adhesive tape to the plantar aspect of the foot along the path of the medial band of the plantar aponeurosis was used to measure PST deformation.  
 <a/>
- ` `   
+
 Characteristics of foot shape and foot deformation under load for each participant were determined by 3D scanning and shape and deformation modelling methods described [elsewhere](/portfolio/2020-01-foot_ssm_reliability).  
 Stepwise multiple linear regression analyses were performed to determine whether variations in foot shape, deformation, as well as their combination, explained variations in PST stiffness.  
 ` `  

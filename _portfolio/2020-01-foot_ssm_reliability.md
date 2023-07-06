@@ -10,7 +10,7 @@ A group of feet were scanned twice by two examiners. Each foot was scanned while
 - The shape of the resulting 3D meshes were compared across time points and between examiners using maximum, mean and root mean square (RMS) surface to surface distances.  
 - The statistical shape models constructed for each time point and examiner were compared using three statistical shape model quality criteria.  
 <a/>  
-` `  
+
 ![Foot shape scanning and modelling reliability results](/images/foot_ssm_rel_results.png){: .align-left}  
 Surface to surface distances between corresponding foot meshes and differences between shape model quality criteria were both found to be small and insignificant.  
 ` `  
