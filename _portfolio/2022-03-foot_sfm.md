@@ -4,9 +4,9 @@ excerpt: "How accurately can individual foot shape characteristics predict foot 
 collection: portfolio
 ---
 
-` `   
 ![Foot shape-function modelling methods](/images/foot_sfm_methods.png){: .align-center}  
-A comprehensive dataset (N = 100) consisting of 3D foot scans under varying loads as well as 3D motion tracking and ground reaction forces during various walking and running tasks was used to assess how accurately foot mechanics can be predicted from foot shape characteristics.  
+A comprehensive dataset (N = 100) consisting of 3D foot scans under varying loads (captured as described [elsewhere](/portfolio/2020-01-foot_ssm_reliability)) as well as 3D motion tracking and ground reaction forces during various walking and running tasks was used to assess how accurately foot mechanics can be predicted from foot shape characteristics.  
+` `  
 To construct a foot shape-function model (SFM) principal component (PC) scores from a statistical shape model were combined with time normalised foot joint kinematics and kinetics. A principal component analysis was then performed to determine the main sources of covarying shape and function parameters.
 ` `  
 ![Foot shape PCs 1-3](/images/sfm_shape_pcs.gif){: .align-center}  
