@@ -4,7 +4,6 @@ excerpt: "Can a physics-based approach accurately predict ground reaction forces
 collection: portfolio
 ---
 *This research is ongoing.*  
-` `  
 The accuracy of a physics-based approach to predicting ground reaction forces (GRF) and centre of pressure (COP) during a diverse range of activities using only markerless 3D motion tracking is being investigated.  
 ` `  
 ![Custom markerless motion capture pose estimation](/images/mmc_grf_prediction_mocap.png){: .align-center}  
@@ -12,5 +11,5 @@ A diverse range of activities, including walking, running, jumping and change of
 ` `  
 ![Predicted vs measured GRFs](/images/mmc_grf_prediction_results.png){: .align-center}
 Preliminary results show that 90-95% of variance in GRFs can be predicted with the current physics-based approach.
-` `  
+
 <!--COP trajectories are predicted using the assumption of zero net moment about the body's centre of mass, proposed by [Herr and Popovic (2008)](https://doi.org/10.1242/jeb.008573) and likewise compared against the measured ground truth.-->
