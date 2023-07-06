@@ -12,7 +12,8 @@ The reliability of the
 - range of motion, 
 - mean angular velocity and 
 - joint work 
-<a/> was assessed using the 
+<a/>  
+was assessed using the 
 - standard error of measurement, 
 - coefficient of variation and 
 - intraclass correlation coefficient. 
