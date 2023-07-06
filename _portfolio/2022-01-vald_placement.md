@@ -15,6 +15,6 @@ The reliability of the
 <a/>  
 
 was assessed using the 
-- standard error of measurement, 
-- coefficient of variation and 
-- intraclass correlation coefficient. 
+- standard error of measurement (SEM), 
+- coefficient of variation (CV) and 
+- intraclass correlation coefficient (ICC). 

@@ -13,4 +13,4 @@ A diverse range of activities, including walking, running, jumping and change of
 ![Predicted vs measured GRFs](/images/mmc_grf_prediction_results.png){: .align-center}
 Preliminary results show that 90-95% of variance in GRFs can be predicted with the current physics-based approach.
 ` `  
-[comment]: <> (COP trajectories are predicted using the assumption of zero net moment about the body's centre of mass, proposed by [Herr and Popovic (2008)](https://doi.org/10.1242/jeb.008573) and likewise compared against the measured ground truth.)
+[//]: # "COP trajectories are predicted using the assumption of zero net moment about the body's centre of mass, proposed by [Herr and Popovic (2008)](https://doi.org/10.1242/jeb.008573) and likewise compared against the measured ground truth."
