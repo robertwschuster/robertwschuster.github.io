@@ -7,7 +7,7 @@ date: 2023-06-30
 venue: 'Footwear Science'
 paperurl: 'https://doi.org/10.1080/19424280.2023.2199292'
 citation: 
-authors: Hemler, Sarah, <b>Schuster, Robert W.</b>, Pataky, Zoltan, & Kelly, Luke A.
+authors: Sarah Hemler, <b>Robert W. Schuster</b>, Zoltan Pataky, & Luke A. Kelly
 ---
 ## Citation
 Hemler, S., **Schuster, R. W.**, Pataky, Z., & Kelly, L. A. (2023). Foot shape modelling of older adults with and without diabetes mellitus. *Footwear Science*. 15, Sup1.  

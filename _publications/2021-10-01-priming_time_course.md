@@ -7,7 +7,7 @@ date: 2021-10-01
 venue: 'International Journal of Sports Physiology and Performance'
 paperurl: 'https://doi.org/10.1123/ijspp.2020-0646'
 citation: 
-authors: Harrison, Peter W., James, Lachlan P., Jenkins, David G., McGuigan, Michael R., <b>Schuster, Robert W.</b>, & Kelly, Vincent G.
+authors: Peter W. Harrison, Lachlan P. James, David G. Jenkins, Michael R. McGuigan, <b>Robert W. Schuster</b>, & Vincent G. Kelly
 ---
 ## Citation
 Harrison, P. W., James, L. P., Jenkins, D. G., McGuigan, M. R., **Schuster, R. W.**, & Kelly, V. G. (2021). Time course of neuromuscular, hormonal, and perceptual responses following moderate- and high-load resistance priming exercise. *International Journal of Sports Physiology and Performance*. 16(10).

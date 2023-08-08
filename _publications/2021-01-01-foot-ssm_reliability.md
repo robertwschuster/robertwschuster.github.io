@@ -7,7 +7,7 @@ date: 2021-01-01
 venue: 'Journal of Biomechanics'
 paperurl: 'https://doi.org/10.1016/j.jbiomech.2020.110137'
 citation: 
-authors: <b>Schuster, Robert W.</b>, Cresswell, Andrew G., & Kelly, Luke A.
+authors: <b>Robert W. Schuster</b>, Andrew G. Cresswell, & Luke A. Kelly
 ---
 ## Citation  
 **Schuster, R. W.**, Cresswell, A. G., & Kelly, L. A. (2021). Reliability and quality of statistical shape and deformation models constructed from optical foot scans. *Journal of Biomechanics*. 115, 110137.

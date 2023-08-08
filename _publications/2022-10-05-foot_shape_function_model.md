@@ -7,7 +7,7 @@ date: 2022-10-05
 venue: 'bioRxiv'
 paperurl: 'https://doi.org/10.1101/2022.10.02.510569'
 citation: 
-authors: <b>Schuster, Robert W.</b>, Cresswell, Andrew G., & Kelly, Luke A.
+authors: <b>Robert W. Schuster</b>, Andrew G. Cresswell, & Luke A. Kelly
 ---
 ## Citation
 **Schuster, R. W.**, Cresswell, A. G., & Kelly, L. A. (2022). Foot form and function: Variable and versatile, yet sufficiently related to predict one from the other. *bioRxiv*. 2022-10.
