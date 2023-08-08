@@ -14,8 +14,8 @@ New approaches to solving long-standing problems and addressing persisting quest
 Education
 ------
 
-Despite spending my school years outside my country of origin, Germany, I returned to complete a Bachelor and Master of Science at the Technical University of Munich.  
-After completing the Master's degree and spending a year as a biomechanics researcher at my alma mater, I felt it was time to go abroad again. Hence, I moved to Brisbane in 2018 to undertake a PhD in biomechanics at the University of Queensland under the guidance of [A/Prof Luke Kelly](https://scholar.google.com.au/citations?user=4oen8loAAAAJ&hl=en&oi=sra) and [Prof Andy Crewsswell](https://scholar.google.com.au/citations?user=MGG3Bs8AAAAJ&hl=en&oi=ao).
+After spending my school years outside my country of origin, Germany, I returned to complete a Bachelor and Master of Science at the Technical University of Munich.  
+Having completed the Master's degree and spending a year as a biomechanics researcher at my alma mater, I felt it was time to go abroad again. Hence, I moved to Brisbane in 2018 to undertake a PhD in biomechanics at the University of Queensland under the guidance of [A/Prof Luke Kelly](https://scholar.google.com.au/citations?user=4oen8loAAAAJ&hl=en&oi=sra) and [Prof Andy Crewsswell](https://scholar.google.com.au/citations?user=MGG3Bs8AAAAJ&hl=en&oi=ao).
 
 Professional experience
 ------
