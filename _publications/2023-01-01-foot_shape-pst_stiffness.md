@@ -7,7 +7,7 @@ date: 2023-01-01
 venue: 'Journal of The Royal Society Interface'
 paperurl: 'https://doi.org/10.1098/rsif.2022.0758'
 citation: 
-authors: <b>Robert W. Schuster,</b>, Andrew G. Cresswell, & Luke A. Kelly
+authors: <b>Robert W. Schuster</b>, Andrew G. Cresswell, & Luke A. Kelly
 ---
 ## Citation
 **Schuster, R. W.**, Cresswell, A. G., & Kelly, L. A. (2023). Foot shape is related to load-induced shape deformations, but neither are good predictors of plantar soft tissue stiffness. *Journal of The Royal Society Interface*. 20(198).
