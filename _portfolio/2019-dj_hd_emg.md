@@ -18,8 +18,6 @@ To quantify drop jump performance the reactive strength index, derived from forc
 - gastrocnemius medialis (GM).  
 ` `  
 ![Drop jump performance results](/images/dj_hd_emg_results.png){: .align-center}  
-Drop jump performance improved from LOW to OPT and decreased from OPT to HIGH. The increase in performance from LOW to OPT appeared to be due to an increase in jump height, whereas the decrease from OPT to HIGH seemed to be due to an increase in ground contact time.
-` `  
-![HD sEMG results](/images/dj_hd_emg_results2.png){: .align-center}  
+Drop jump performance improved from LOW to OPT and decreased from OPT to HIGH. The increase in performance from LOW to OPT appeared to be due to an increase in jump height, whereas the decrease from OPT to HIGH seemed to be due to an increase in ground contact time.  
 Despite decreasing performance, stretch reflex responses were largest at HIGH. Stretch reflex responses timing did not change; staying within the short (SOL, < 60 ms) and medium (VL, GM; 60–85 ms) latency response time-frames. Motor unit recruitment appeared to change across drop heights only for VL, whereas activation intensity only changed for SOL.  
 The results from this investigation indicate that during drop jumps above OPT neuromuscular modifications result in VL no longer being maximally recruited.
