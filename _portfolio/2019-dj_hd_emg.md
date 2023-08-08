@@ -16,6 +16,7 @@ To quantify drop jump performance the reactive strength index, derived from forc
 - vastus lateralis (VL), 
 - soleus (SOL) and
 - gastrocnemius medialis (GM).  
+
 ` `  
 ![Drop jump performance results](/images/dj_hd_emg_results.png){: .align-center}  
 Drop jump performance improved from LOW to OPT and decreased from OPT to HIGH. The increase in performance from LOW to OPT appeared to be due to an increase in jump height, whereas the decrease from OPT to HIGH seemed to be due to an increase in ground contact time.  
