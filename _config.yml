@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Robert Schuster"
   avatar           : "profile_pic.jpg"
-  bio              : "PhD in biomechanics with an interest in all aspects of being human"
+  bio              : "Postdoc research fellow | PhD in biomechanics | Interested in all aspects of being human"
   location         : "Brisbane, AUS"
-  employer         :
+  employer         : "Griffith University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "robertwschuster@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=B3bujxQAAAAJ"
+  email            : # "robertwschuster@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
